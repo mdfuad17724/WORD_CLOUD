@@ -1,0 +1,5 @@
+setup.py
+src/word_cloud.egg-info/PKG-INFO
+src/word_cloud.egg-info/SOURCES.txt
+src/word_cloud.egg-info/dependency_links.txt
+src/word_cloud.egg-info/top_level.txt
